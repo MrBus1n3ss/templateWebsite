@@ -1,0 +1,3 @@
+//todo: make proper requirements with version numbers
+Flask
+Flask-Bootstrap4
